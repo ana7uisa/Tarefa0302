@@ -36,7 +36,6 @@ Este projeto tem como objetivo explorar as funcionalidades da placa BitDogLab, u
 3. Pressione os botões para interagir com os LEDs e visualizar os resultados no display OLED.
 
 ## Vídeo
-https://drive.google.com/file/d/1OD6emnfZkokju1MCl2-8NnqSnRsGkIUt/view?usp=drive_link
-
+https://drive.google.com/file/d/1g7TH814wlXaarvvlX7LwuWNHjxPsujEL/view?usp=sharing
 
 
